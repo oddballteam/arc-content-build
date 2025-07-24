@@ -1,5 +1,6 @@
+/* eslint-disable no-unused-vars */
 // Builds the site using Metalsmith as the top-level build runner.
-/* eslint-disable no-unused-vars no-console */
+/* eslint-disable no-console */
 const chalk = require('chalk');
 const assets = require('metalsmith-assets');
 const collections = require('metalsmith-collections');
