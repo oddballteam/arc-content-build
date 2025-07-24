@@ -84,7 +84,7 @@ function getNodeQueries(entityCounts) {
   return {
     ...getNodePageQueries(entityCounts),
     GetNodeLandingPages,
-    ...getNodeVaFormQueries(entityCounts),
+    // ...getNodeVaFormQueries(entityCounts),
     // ...getNodeHealthCareRegionPageQueries(entityCounts),
     // ...getNodeOfficeQueries(entityCounts),
     // ...getNodeHealthCareLocalFacilityPageQueries(entityCounts),
