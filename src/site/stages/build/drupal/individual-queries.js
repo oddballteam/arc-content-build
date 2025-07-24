@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const { CountEntityTypes } = require('./graphql/CountEntityTypes.graphql');
 
 const { getNodePageQueries } = require('./graphql/page.graphql');
